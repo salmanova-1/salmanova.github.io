@@ -9,7 +9,7 @@
  </br>
  <h3>Контакты:</h3>
  Страничка <a href=https://vk.com/slmnv3004/>vkontakte</a>
- Страничка <a href=https://www.instagram.com/yana_salmanova_/?hl=ru </a>
+ Страничка <a href=https://www.instagram.com/yana_salmanova_/?hl=ru</a>
  Телефон: <b>+7-951-873-87-30</b>
  E-mail: <i>yana.salmanova.02.@gmail.com</i>
  </html>
