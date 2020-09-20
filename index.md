@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/salmanova-1/salmanova.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salmanova-1/salmanova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ <!doctype html>
+ <html>
+ <head>
+ <meta charset="utf-8">
+ <title>Моя личная страничка</title>
+ <left><h1>Моя личная страничка</h1></left>
+ </head>
+ <body>
+ <left><h1>Яна Салманова</h1></left>
+ <left><img alt="1. пол: женский"
+<left><img alt="2. дата рождения: 30.04.2002."
+<left><img alt="3. город: Воронеж"
+ width="15%" src="CpDiFUyLWzI.jpg"></left>
+ <br/>
+ <h2>Контакты:</h2>
+ Страничка <a href=https://vk.com/slmnv3004/>vkontakte</a>
+ Станичка <a href=https://vk.com/slmnv3004/>vkontakte</a>
+ <br/>
+ <a href=https://www.instagram.com/yana_salmanova_/?hl=ru</a>
+ Страничка <a href=https://www.instagram.com/yana_salmanova_/?hl=ru</a>
+ <br/>
+ Телефон: <b>+7-951-873-87-30</b>
+ <br/>
+ E-mail: <i>yana.salmanova.02.@gmail.com</i>
+ </body>
+ </html>
